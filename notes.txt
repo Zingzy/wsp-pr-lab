@@ -1,2 +1,2 @@
 first line
-second line, from the branch
+second line, from main and from the branch
